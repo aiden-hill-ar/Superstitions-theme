@@ -1,0 +1,21 @@
+{
+  "name": "superstitions",
+  "displayName": "Superstitions",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Superstitions",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Superstitions-color-theme.json"
+      }
+    ]
+  }
+}
