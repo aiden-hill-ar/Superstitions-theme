@@ -116,7 +116,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#5087ff"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#8cc5fb"
+				"foreground": "#9dcefc"
 			}
 		},
 		{
