@@ -1,3 +1,15 @@
+# Installing
+
+Download the latest [`.vsix`](https://github.com/aiden-hill-ar/Superstitions-theme/releases) file from the Releases section and install it in VS Code:
+
+1. Open VS Code
+2. Go to Extensions
+3. Click the three dots (top right)
+4. Select "Install from VSIX..."
+5. Choose the downloaded file
+
+---
+
 # Who is this theme for?
 
 Any developer, really. I made it specifically for users with anti blue-light glasses and full-stack devs, but it looks great without the glasses.
