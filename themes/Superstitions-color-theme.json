@@ -119,15 +119,6 @@
 			}
 		},
 		{
-			"name": "Block Level Variables",
-			"scope": [
-				"meta.block variable.other"
-			],
-			"settings": {
-				"foreground": "#f37b81"
-			}
-		},
-		{
 			"name": "Other Variable, String Link",
 			"scope": [
 				"support.other.variable",
