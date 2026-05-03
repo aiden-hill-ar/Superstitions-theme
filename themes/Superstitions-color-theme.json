@@ -10,7 +10,7 @@
         {
             "scope": "text.html.derivative",
             "settings": {
-                "foreground": "#e0eae3"
+                "foreground": "#fffef5"
             }
         },
 		{
@@ -31,7 +31,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#fffdef"
 			}
 		},
 		{
@@ -54,14 +54,13 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Storage",
 			"scope": [
-				"keyword",
 				"storage.type",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#cb7cfc"
+				"foreground": "#c340ff"
 			}
 		},
 		{
@@ -72,7 +71,7 @@
 				"punctuation.definition.string.end"
 			],
 			"settings": {
-				"foreground": "#8cc5fb"
+				"foreground": "#a2e1fa"
 			}
 		},
 		{
@@ -92,7 +91,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffc455"
 			}
 		},
 		{
@@ -103,7 +102,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ff874b"
+				"foreground": "#ff873c"
 			}
 		},
 		{
@@ -116,7 +115,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#5087ff"
+				"foreground": "#6794f6"
 			}
 		},
 		{
@@ -125,7 +124,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f37b81"
 			}
 		},
 		{
@@ -139,19 +138,44 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"name": "Constants & Parameters",
 			"scope": [
-				"constant.numeric",
 				"constant.language",
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
-				"keyword.other.unit",
-				"keyword.other"
+				"keyword.other",
 			],
 			"settings": {
-				"foreground": "#d1f147"
+				"foreground": "#bdff4a"
+			}
+		},
+		{
+			"name": "Parameter",
+			"scope": [
+				"variable.parameter",
+			],
+			"settings": {
+				"foreground": "#a4ff3b"
+			},
+		},
+		{
+			"name": "keyword",
+			"scope": [
+				"keyword",
+			],
+			"settings": {
+				"foreground": "#218dab",
+			}
+		},
+		{
+			"name": "Numbers & Units",
+			"scope": [
+				"constant.numeric",
+				"keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#ffd79a"
 			}
 		},
 		{
@@ -166,7 +190,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#9dcefc"
+				"foreground": "#a2e1fa"
 			}
 		},
 		{
@@ -205,7 +229,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#87ffd3"
+				"foreground": "#79fdcc"
 			}
 		},
 		{
@@ -255,7 +279,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#55a9fc"
+				"foreground": "#429ffc"
 			}
 		},
 		{
