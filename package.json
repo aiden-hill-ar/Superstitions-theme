@@ -2,7 +2,7 @@
   "name": "superstitions",
   "displayName": "Superstitions",
   "description": "A vibrant, high-contrast VS Code theme designed for readability, especially with blue-light filters.",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "icon": "images/logo.png",
   "publisher": "aidenhillar",
   "engines": {
