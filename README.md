@@ -1,3 +1,7 @@
+# Preview:
+
+![Superstitions Theme Preview](./images/superstitions-preview.png)
+
 ## Install
 
 Install directly from the VS Code Marketplace:
