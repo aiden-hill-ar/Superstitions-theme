@@ -19,5 +19,9 @@
         "path": "./themes/Superstitions-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiden-hill-ar/Superstitions-theme"
   }
 }
