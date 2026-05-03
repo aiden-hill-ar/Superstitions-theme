@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Superstitions Theme:
 
 ![Superstitions Theme Preview](images/superstitions-preview.png)
+=======
+# Preview:
+
+![Superstitions Theme Preview](./images/superstitions-preview.png)
+>>>>>>> 61a81ab863b8c10c72ed5189634db28443914eae
 
 ## Install
 
@@ -30,7 +36,11 @@ If the default theme feels boring, hard to read, or straining, then this theme i
 
 ## Why I made this theme
 
+<<<<<<< HEAD
 It started as a solution for eyestrain. I had always wanted to make my own theme, but now that I had been using anti blue-light glasses for a while, the default Dark+ theme looked washed out and was uneasy on my eyes.
+=======
+It all started on May 1st, 2026. I had always wanted to make my own theme, but now that I had been using anti blue-light glasses for a while, the default Dark+ theme looked washed out and was uneasy on my eyes.
+>>>>>>> 61a81ab863b8c10c72ed5189634db28443914eae
 
 No other theme really clicked for me, so I decided to make my own. I watched this video by the official Visual Studio Code YouTube channel:
 [Building your own VS Code theme](https://www.youtube.com/watch?v=FeApSxfazVg).
@@ -55,7 +65,11 @@ When paired with the recommended font (more on that in the next section) and ant
 
 This theme was made to be used with JetBrains Mono Light.
 
+<<<<<<< HEAD
 #### Setup (file found at my [GitHub Repository](https://github.com/aiden-hill-ar/Superstitions-theme) or [Google Fonts](https://fonts.google.com/specimen/JetBrains+Mono?preview.layout=grid)):
+=======
+#### Setup (file found at my [GitHub Repository](https://github.com/aiden-hill-ar/Superstitions-theme)):
+>>>>>>> 61a81ab863b8c10c72ed5189634db28443914eae
 1. Download the zip file and un-zip it
 2. Install the variable font (***not*** the italic one) by right clicking and intalling, or opening the file and installing
 3. Go to VS Code's search bar at the top and type **>Preferences: Open Settings (UI)**
@@ -73,7 +87,11 @@ Finished!
 
 ---
 
+<<<<<<< HEAD
 If you prefer using another font to code, I just want to say that this theme was made with JetBrains Mono Light in mind, so results may vary from those that I am stating in this README.
+=======
+If you prefer using another font to code, I just want to say that this theme was made with JetBrains Mono Light in mind, so results my vary from those that I am stating in this README.
+>>>>>>> 61a81ab863b8c10c72ed5189634db28443914eae
 
 ---
 
@@ -96,6 +114,7 @@ Download the latest [`.vsix`](https://github.com/aiden-hill-ar/Superstitions-the
 4. Select "Install from VSIX..."
 5. Choose the downloaded file
 
+<<<<<<< HEAD
 ###### Please keep in mind that downloading this theme from GitHub will not offer automatic updates and may not always be up to date.
 
 ---
@@ -106,3 +125,6 @@ Download the latest [`.vsix`](https://github.com/aiden-hill-ar/Superstitions-the
 - # Code
 - # Debug
 - # Enjoy!
+=======
+---
+>>>>>>> 61a81ab863b8c10c72ed5189634db28443914eae
