@@ -1,12 +1,18 @@
-# Installing
+## Install
 
-Download the latest [`.vsix`](https://github.com/aiden-hill-ar/Superstitions-theme/releases) file from the Releases section and install it in VS Code:
+Install directly from the VS Code Marketplace:
+https://marketplace.visualstudio.com/items?itemName=aidenhillar.superstitions
 
-1. Open VS Code
-2. Go to Extensions
-3. Click the three dots (top right)
-4. Select "Install from VSIX..."
-5. Choose the downloaded file
+Or inside VS Code:
+- Open Extensions
+- Search **Superstitions**
+- Click Install
+
+###### (if you prefer to download locally or are offline, scroll to the bottom for installation instructions)
+---
+
+# ***Thanks for downloading Superstitions!***
+#### If you enjoy Superstitions, please feel free to recommend it to other devs you know
 
 ---
 
@@ -41,21 +47,21 @@ When paired with the recommended font (more on that in the next section) and ant
 
 ---
 
-### What font should you use with this theme?
+# What font should you use with this theme?
 
 This theme was made to be used with JetBrains Mono Light.
 
-#### Setup:
+#### Setup (file found at my [GitHub Repository](https://github.com/aiden-hill-ar/Superstitions-theme)):
 1. Download the zip file and un-zip it
 2. Install the variable font (***not*** the italic one) by right clicking and intalling, or opening the file and installing
 3. Go to VS Code's search bar at the top and type **>Preferences: Open Settings (UI)**
 4. Then type in the search bar of the settings, **Editor: Font Family**
-5. You should see other fonts written there, good. That's normal. Now type in **'JetBrains Mono Light',**
+5. You should see other fonts written there, good. That's normal. Now type in **'JetBrains Mono Light',** with the quotes
 6. Restart VS Code
 
 Finished!
 
-##### Why choose this font?
+#### Why choose this font?
 1. It looks good but is simple
 2. It's easy on the eyes
 3. It's got better line spacing than other monospaced fonts
@@ -63,7 +69,7 @@ Finished!
 
 ---
 
-If you prefer using another font to code, I just want to say that that this theme was and should always be meant to be used with JetBrains Mono Light, so be warned if you don't get the results that I am stating in this README.
+If you prefer using another font to code, I just want to say that this theme was made with JetBrains Mono Light in mind, so results my vary from those that I am stating in this README.
 
 ---
 
@@ -71,7 +77,19 @@ If you prefer using another font to code, I just want to say that that this them
 
 No, this theme is not finished as of late. I have made the majority of the theme, but I have only used it across HTML, CSS, and JS as those are the only languages I currently know.
 
-If you find a conflict between two different sets of code then you can create a new issue in the issues tab and fill it out to the best of your ability.
+If you find a conflict between two different sets of code then you can create a new issue in the issues tab on GitHub and fill it out to the best of your ability.
 
 **Please keep the template text when submitting issues—it helps me quickly understand the problem.**
+---
+
+# Manual Install through GitHub (useful for offline or manual installs)
+
+Download the latest [`.vsix`](https://github.com/aiden-hill-ar/Superstitions-theme/releases) file from the Releases section and install it in VS Code:
+
+1. Open VS Code
+2. Go to Extensions
+3. Click the three dots (top right)
+4. Select "Install from VSIX..."
+5. Choose the downloaded file
+
 ---
