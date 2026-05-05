@@ -1,6 +1,6 @@
 # Superstitions Theme:
 
-![Superstitions Theme Preview](./images/superstitions-preview.png)
+![Superstitions Theme Preview](images/superstitions-preview.png)
 
 ## Install
 
