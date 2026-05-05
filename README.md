@@ -1,6 +1,7 @@
 # Superstitions Theme:
 
-![Superstitions Theme Preview](images/superstitions-preview.png)
+![Superstitions Dark Theme Preview](images/superstitions-dark.png)
+![Superstitions Light Theme preview](image/superstitions-light.png)
 
 ## Install
 
@@ -32,8 +33,6 @@ If the default theme feels boring, hard to read, or straining, then this theme i
 
 It started as a solution for eyestrain. I had always wanted to make my own theme, but now that I had been using anti blue-light glasses for a while, the default Dark+ theme looked washed out and was uneasy on my eyes.
 
-It all started on May 1st, 2026. I had always wanted to make my own theme, but now that I had been using anti blue-light glasses for a while, the default Dark+ theme looked washed out and was uneasy on my eyes.
-
 No other theme really clicked for me, so I decided to make my own. I watched this video by the official Visual Studio Code YouTube channel:
 [Building your own VS Code theme](https://www.youtube.com/watch?v=FeApSxfazVg).
 
@@ -44,7 +43,7 @@ It walked me step by step on how to make my own theme, so I did.
 ## What does it look like / style?
 
 The best way I would describe this theme, is:
-- Candy-ish / Cyberpunk inspired
+- Candy colors & Matte
 - Poppy/Vibrant but controlled
 - Made to identify tokens quickly
 - Easy on the Eyes
@@ -63,7 +62,7 @@ This theme was made to be used with JetBrains Mono Light.
 2. Install the variable font (***not*** the italic one) by right clicking and intalling, or opening the file and installing
 3. Go to VS Code's search bar at the top and type **>Preferences: Open Settings (UI)**
 4. Then type in the search bar of the settings, **Editor: Font Family**
-5. You should see other fonts written there, good. That's normal. Now type in **'JetBrains Mono Light',** with the quotes
+5. You should see other fonts written there, good. That's normal. Now type in **'JetBrains Mono Light',** with the quotes as the first option
 6. Restart VS Code
 
 Finished!
@@ -84,7 +83,7 @@ If you prefer using another font to code, I just want to say that this theme was
 
 No, this theme is not finished as of late. I have made the majority of the theme, but I have only used it across HTML, CSS, and JS as those are the only languages I currently know.
 
-If you find a conflict between two different sets of code then you can create a new issue in the issues tab on GitHub and fill it out to the best of your ability.
+If you find a conflict between two different sets of code then you can create a new issue in the issues tab on my GitHub [here](https://github.com/aiden-hill-ar/Superstitions-theme/issues), and fill it out to the best of your ability.
 
 **Please keep the template text when submitting issues—it helps me quickly understand the problem.**
 ---

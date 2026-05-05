@@ -1,23 +1,20 @@
 {
-	"name": "Superstitions",
+	"name": "Superstitions-light",
 	"colors": {
-		"editor.background": "#21263b", // was #212121
+		"editor.background": "#2e2e2e",
 		"editor.foreground": "#fffef5",
-      "activityBar.background": "#181b2b", // was #171717
-      "titleBar.activeBackground": "#181b2b", // was #171717
-      "titleBar.inactiveBackground": "#1d2134", // was #1c1c1c
+      "activityBar.background": "#212121",
+      "titleBar.activeBackground": "#212121",
+      "titleBar.inactiveBackground": "#1c1c1c",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb",
-      "tab.inactiveBackground": "#1d2134",
-      "tab.hoverBackground": "#23283f",
+      "tab.inactiveBackground": "#292929",
+      "tab.hoverBackground": "#313131",
       "tab.dragAndDropBorder": "#007acc",
-      "sideBar.background": "#1d2134",
+      "sideBar.background": "#292929",
       "sideBar.foreground": "#d3d3c5",
-      "minimap.background": "#23283f99",
-      "editorGroupHeader.tabsBackground": "#181b2b",
-      "commandCenter.background": "#24132f",
-      "commandCenter.activeBackground": "#331844",
-      "terminal.background": "#1b2031",
+      "minimap.background": "#31313199",
+      "editorGroupHeader.tabsBackground": "#212121",
+      "statusBar.background": "#e96c3e"
 	},
 	"tokenColors": [
         {
@@ -148,7 +145,7 @@
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"keyword.other",
+				"keyword.other"
 			],
 			"settings": {
 				"foreground": "#91e3a5"
@@ -157,19 +154,19 @@
 		{
 			"name": "Parameter",
 			"scope": [
-				"variable.parameter",
+				"variable.parameter"
 			],
 			"settings": {
 				"foreground": "#95e13e"
-			},
+			}
 		},
 		{
 			"name": "keyword",
 			"scope": [
-				"keyword",
+				"keyword"
 			],
 			"settings": {
-				"foreground": "#4141b9",
+				"foreground": "#4141b9"
 			}
 		},
 		{

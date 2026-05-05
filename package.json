@@ -1,7 +1,7 @@
 {
   "name": "superstitions",
   "displayName": "Superstitions",
-  "description": "A vibrant, high-contrast VS Code theme designed for readability, especially with blue-light filters.",
+  "description": "An identifiable dark and light color theme for readibility, especially with blue light filters.",
   "version": "1.4.2",
   "icon": "images/logo.png",
   "publisher": "aidenhillar",
@@ -17,6 +17,11 @@
         "label": "Superstitions",
         "uiTheme": "vs-dark",
         "path": "./themes/Superstitions-color-theme.json"
+      },
+      {
+         "label": "Superstitions-light",
+         "uiTheme": "vs-dark",
+         "path": "./themes/Superstitions-color-theme-light.json"
       }
     ]
   },
