@@ -1,7 +1,7 @@
 {
 	"name": "Superstitions",
 	"colors": {
-		"editor.background": "#21263b", // was #212121
+		"editor.background": "#1f2438", // was #212121
 		"editor.foreground": "#fffef5",
       "activityBar.background": "#181b2b", // was #171717
       "titleBar.activeBackground": "#181b2b", // was #171717
@@ -15,9 +15,17 @@
       "sideBar.foreground": "#d3d3c5",
       "minimap.background": "#23283f99",
       "editorGroupHeader.tabsBackground": "#181b2b",
-      "commandCenter.background": "#24132f",
-      "commandCenter.activeBackground": "#331844",
+      "commandCenter.background": "#202740",
+      "commandCenter.activeBackground": "#252b46",
       "terminal.background": "#1b2031",
+      "statusBar.background": "#00727b",
+      "button.background": "#00727b",
+      "input.background": "#2b3250",
+      "input.border": "#262d4b",
+      "scrollbarSlider.background": "#32374e",
+      "scrollbarSlider.activeBackground": "#535a79",
+      "scrollbarSlider.hoverBackground": "#434a65",
+      "": "#f00",
 	},
 	"tokenColors": [
         {
@@ -73,7 +81,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#994fe3"
+				"foreground": "#E7B965"
 			}
 		},
 		{
@@ -128,7 +136,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#6794f6"
+				"foreground": "#5e8df3"
 			}
 		},
 		{
@@ -169,7 +177,7 @@
 				"keyword",
 			],
 			"settings": {
-				"foreground": "#4141b9",
+				"foreground": "#bf8040",
 			}
 		},
 		{
@@ -283,7 +291,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#599fe5"
+				"foreground": "#72ade9"
 			}
 		},
 		{
