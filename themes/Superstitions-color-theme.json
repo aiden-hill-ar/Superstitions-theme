@@ -25,7 +25,6 @@
       "scrollbarSlider.background": "#32374e",
       "scrollbarSlider.activeBackground": "#535a79",
       "scrollbarSlider.hoverBackground": "#434a65",
-      "": "#f00",
 	},
 	"tokenColors": [
         {
