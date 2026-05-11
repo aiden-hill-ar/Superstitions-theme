@@ -2,7 +2,7 @@
   "name": "superstitions",
   "displayName": "Superstitions",
   "description": "An identifiable dark and light color theme for readibility, especially with blue light filters.",
-  "version": "1.4.2",
+  "version": "2.0.0",
   "icon": "images/logo.png",
   "publisher": "aidenhillar",
   "engines": {
@@ -19,9 +19,9 @@
         "path": "./themes/Superstitions-color-theme.json"
       },
       {
-         "label": "Superstitions-light",
-         "uiTheme": "vs-dark",
-         "path": "./themes/Superstitions-color-theme-light.json"
+        "label": "Superstitions-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Superstitions-color-theme-light.json"
       }
     ]
   },
