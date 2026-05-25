@@ -2,11 +2,11 @@
   "name": "superstitions",
   "displayName": "Superstitions",
   "description": "An identifiable dark and light color theme for readibility, especially with blue light filters.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "icon": "images/logo.png",
   "publisher": "aidenhillar",
   "engines": {
-    "vscode": "^1.118.0"
+    "vscode": "^1.107.1"
   },
   "categories": [
     "Themes"
