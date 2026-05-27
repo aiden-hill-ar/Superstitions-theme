@@ -1,7 +1,7 @@
 # Superstitions Theme:
 
-![Superstitions Dark Theme Preview](images/superstitions-dark.png)
-![Superstitions Light Theme preview](images/superstitions-light.png)
+![Superstitions Dark Theme Preview](images/superstitions-dark-hero.png)
+![Superstitions Light Theme preview](images/superstitions-light-hero.png)
 
 ## Install
 

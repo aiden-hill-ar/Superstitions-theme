@@ -1,8 +1,8 @@
 {
   "name": "superstitions",
   "displayName": "Superstitions",
-  "description": "An identifiable dark and light color theme for readibility, especially with blue light filters.",
-  "version": "2.0.1",
+  "description": "Soft, simple, and readable. Made with blue light glasses in mind.",
+  "version": "2.0.2",
   "icon": "images/logo.png",
   "publisher": "aidenhillar",
   "engines": {

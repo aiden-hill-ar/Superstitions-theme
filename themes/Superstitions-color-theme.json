@@ -30,7 +30,7 @@
         {
             "scope": "text.html.derivative",
             "settings": {
-                "foreground": "#d3d3c5"
+                "foreground": "#fffdeb"
             }
         },
 		{
@@ -51,7 +51,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#fffdef"
+				"foreground": "#fffdeb"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#E7B965"
+				"foreground": "#E88B69"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#e7b965"
+				"foreground": "#e7b965",
 			}
 		},
 		{
@@ -126,6 +126,16 @@
 			}
 		},
 		{
+			"name": "Script Tags",
+			"scope": [
+				"meta.tag.metadata.script.start.html",
+				"meta.tag.metadata.script.end.html"
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
@@ -135,7 +145,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#5e8df3"
+				"foreground": "#5ca1e6"
 			}
 		},
 		{
@@ -176,7 +186,8 @@
 				"keyword",
 			],
 			"settings": {
-				"foreground": "#bf8040",
+				"foreground": "#95e391",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -240,7 +251,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#5cbed6"
+				"foreground": "#5CA1E6"
 			}
 		},
 		{
@@ -290,7 +301,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#72ade9"
+				"foreground": "#5ca1e6"
 			}
 		},
 		{
