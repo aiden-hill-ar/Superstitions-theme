@@ -2,9 +2,9 @@
   "name": "superstitions",
   "displayName": "Superstitions",
   "description": "Soft, simple, and readable. Made with blue light glasses in mind.",
-  "version": "2.1.1",
+  "version": "2.2",
   "icon": "images/logo.png",
-  "publisher": "aidenhillar",
+  "publisher": "aidenhill.ar",
   "engines": {
     "vscode": "^1.107.1"
   },
