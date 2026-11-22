@@ -22,6 +22,11 @@
          "label": "Superstitions-light",
          "uiTheme": "vs-dark",
          "path": "./themes/Superstitions-color-theme-light.json"
+      },
+      {
+        "label": "Superstitions-new",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Superstitions-new.json"
       }
     ]
   },
