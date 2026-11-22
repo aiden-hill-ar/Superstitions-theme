@@ -1,36 +1,36 @@
 {
 	"name": "Superstitions",
 	"colors": {
-		"editor.background": "#1f2438", // was #212121
-		"editor.foreground": "#fffef5",
-      "activityBar.background": "#181b2b", // was #171717
-      "titleBar.activeBackground": "#181b2b", // was #171717
-      "titleBar.inactiveBackground": "#1d2134", // was #1c1c1c
+		"editor.background": "#1f2438",
+		"editor.foreground": "#fff",
+		"activityBar.background": "#181b2b",
+		"titleBar.activeBackground": "#181b2b",
+		"titleBar.inactiveBackground": "#1d2134", 
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
-      "tab.inactiveBackground": "#1d2134",
-      "tab.hoverBackground": "#23283f",
-      "tab.dragAndDropBorder": "#007acc",
-      "sideBar.background": "#1d2134",
-      "sideBar.foreground": "#d3d3c5",
-      "minimap.background": "#23283f99",
-      "editorGroupHeader.tabsBackground": "#181b2b",
-      "commandCenter.background": "#202740",
-      "commandCenter.activeBackground": "#252b46",
-      "terminal.background": "#1b2031",
-      "statusBar.background": "#00727b",
-      "button.background": "#00727b",
-      "input.background": "#2b3250",
-      "input.border": "#262d4b",
-      "scrollbarSlider.background": "#32374e",
-      "scrollbarSlider.activeBackground": "#535a79",
-      "scrollbarSlider.hoverBackground": "#434a65",
+		"tab.inactiveBackground": "#1d2134",
+		"tab.hoverBackground": "#23283f",
+		"tab.dragAndDropBorder": "#007acc",
+		"sideBar.background": "#1d2134",
+		"sideBar.foreground": "#d3d3c5",
+		"minimap.background": "#23283f99",
+		"editorGroupHeader.tabsBackground": "#181b2b",
+		"commandCenter.background": "#202740",
+		"commandCenter.activeBackground": "#252b46",
+		"terminal.background": "#1b2031",
+		"statusBar.background": "#00727b",
+		"button.background": "#00727b",
+		"input.background": "#2b3250",
+		"input.border": "#262d4b",
+		"scrollbarSlider.background": "#32374e",
+		"scrollbarSlider.activeBackground": "#535a79",
+		"scrollbarSlider.hoverBackground": "#434a65",
 	},
 	"tokenColors": [
         {
             "scope": "text.html.derivative",
             "settings": {
-                "foreground": "#d3d3c5"
+                "foreground": "#fffdeb"
             }
         },
 		{
@@ -41,7 +41,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold",
-				"foreground": "#247b9ed6"
+				"foreground": "#118c95"
 			}
 		},
 		{
@@ -51,7 +51,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#fffdef"
+				"foreground": "#fffdeb"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#E7B965"
+				"foreground": "#E88B69"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#e7b965"
+				"foreground": "#e7b965",
 			}
 		},
 		{
@@ -122,7 +122,17 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#e88b69"
+				"foreground": "#F08761"
+			}
+		},
+		{
+			"name": "Script Tags",
+			"scope": [
+				"meta.tag.metadata.script.start.html",
+				"meta.tag.metadata.script.end.html"
+			],
+			"settings": {
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -135,7 +145,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#5e8df3"
+				"foreground": "#5ca1e6"
 			}
 		},
 		{
@@ -176,7 +186,8 @@
 				"keyword",
 			],
 			"settings": {
-				"foreground": "#bf8040",
+				"foreground": "#95e391",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -186,7 +197,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#f7dcb3"
+				"foreground": "#fdddad"
 			}
 		},
 		{
@@ -240,7 +251,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#5cbed6"
+				"foreground": "#59a1e9"
 			}
 		},
 		{
@@ -290,7 +301,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#72ade9"
+				"foreground": "#5ca1e6"
 			}
 		},
 		{
@@ -310,7 +321,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#eac37b"
+				"foreground": "#f4c671"
 			}
 		},
 		{
