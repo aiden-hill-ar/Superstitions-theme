@@ -61,7 +61,7 @@
 		"commandCenter.border": "#6fa0eb40",
 		"commandCenter.activeBorder": "#6fa0eb80",
 
-		"editor.findMatchHighlightBackground": "#f75b0760",
+		"editor.findMatchHighlightBackground": "#f75b0760"
 	},
 
 	"tokenColors": [
