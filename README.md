@@ -1,99 +1,36 @@
-# Superstitions Theme:
+# Superstitions
 
-![Superstitions Dark Theme Preview](images/superstitions-dark-hero.png)
-![Superstitions Light Theme preview](images/superstitions-light-hero.png)
+Image Once Finished
 
-## Install
+[Superstitions Github](https://github.com/aiden-hill-ar/Superstitions-theme)
 
-Install directly from the VS Code Marketplace:
-https://marketplace.visualstudio.com/items?itemName=aidenhillar.superstitions
+## Supported Languages
 
-- Open Extensions
-- Search **Superstitions**
-- Click Install
+- HTML
+- CSS
+- JavaScript
 
-###### (if you prefer to download locally or are offline, scroll to the bottom for installation instructions)
+## What's New in Superstitions Version 3.0.0?
+Superstitions has been remade from the ground up so you can experience it like it was always meant to be.
 
-# ***Thanks for downloading Superstitions!***
-#### If you enjoy Superstitions, please feel free to recommend it to other devs you know
+A couple key points:
 
+- Superstitions now has over 110 extra styles so your VSCode will look unified instead of unfinished! (Examples of newly styled elements: highlighted text, minimap, error and warnings, input/text fields, badges, notifications, and so much more!)
 
-# Who is this theme for?
+- Superstitions now has extra styling to help signal importance, currently open files, relativity, and more!
 
-Any developer, really. I made it specifically for users with anti blue-light glasses and full-stack devs, but it looks great without the glasses.
+## What is Superstitions Like?
 
-If the default theme feels boring, hard to read, or straining, then this theme is worth giving a shot!
+Superstitions is a dark theme with a focus on reducing eye fatigue.
 
+Things about Superstitions:
 
-## Why I made this theme
+- Its UI flows. For example, your text editor is grouped together meaning that UI elements are mostly the same color so it doesn't break the flow of unity. Most of everything else outside of the text editor like the action bar, title bar, and tab bar background are the same color. This also reduces distractions and fatigue very subtly because there's not a lot of colors competing everywhere.
 
-It started as a solution for eyestrain. I had always wanted to make my own theme, but now that I had been using anti blue-light glasses for a while, the default Dark+ theme looked washed out and was uneasy on my eyes.
+- Bright colors are dimmed and desaturated slightly and there are no near-black colors so your eyes can rest in a range of comfortable contrast.
 
-No other theme really clicked for me, so I decided to make my own. I watched this video by the official Visual Studio Code YouTube channel:
-[Building your own VS Code theme](https://www.youtube.com/watch?v=FeApSxfazVg).
+- Related code is styled similarly. For example, the name of an html tag and the type of variable are the same color (`<div>, const`) because they both signal the start of a new element/value.
 
-It walked me step by step on how to make my own theme, so I did.
-
-
-## What does it look like / style?
-
-The best way I would describe this theme, is:
-- Candy colors & Matte
-- Poppy/Vibrant but controlled
-- Made to identify tokens quickly
-- Easy on the Eyes
-
-When paired with the recommended font (more on that in the next section) and anti blue-light glasses or filter, this theme makes it easier to read code comfortably for longer periods.
-
-
-# What font should you use with this theme?
-
-This theme was made to be used with JetBrains Mono Light.
-
-#### Setup (file found at my [GitHub Repository](https://github.com/aiden-hill-ar/Superstitions-theme) or [Google Fonts](https://fonts.google.com/specimen/JetBrains+Mono?preview.layout=grid)):
-
-1. Download the zip file and un-zip it
-1. Install the variable font (***not*** the italic one) by right clicking and intalling, or opening the file and installing
-1. Then, go to settings and type in the search bar, `Editor: Font Family`
-1. You should see other fonts written there, good. That's normal. Now type in `'JetBrains Mono Light',` with the quotes as the first option
-1. Restart VS Code
-
-Finished!
-
-#### Why choose this font?
-1. It looks good but is simple
-2. It's easy on the eyes
-3. It's got better line spacing than other monospaced fonts
-4. The light weight is better than the normal weight for code
-
-
-If you prefer using another font to code, I just want to say that this theme was made with JetBrains Mono Light in mind, so results may vary from those that I am stating in this README.
-
-
-#### Is this theme finished/where can I report a problem found in the theme? (like conflicting issues with certain code colors)
-
-This theme is not finished. I have come a long way from the beginning but I have only made themes for HTML, CSS, and JS for now. Eventually I plan on adding more languages.
-
-If you find a conflict between two different sets of code then you can create a new issue in the issues tab on my GitHub [here](https://github.com/aiden-hill-ar/Superstitions-theme/issues), and fill it out to the best of your ability.
-
-**Please keep the template text when submitting issues—it helps me quickly understand the problem.**
-
-# Manual Install through GitHub
-
-Download the latest [`.vsix`](https://github.com/aiden-hill-ar/Superstitions-theme/releases) file from the Releases section and install it in VS Code:
-
-1. Open VS Code
-2. Go to Extensions
-3. Click the three dots (top right)
-4. Select "Install from VSIX..."
-5. Choose the downloaded file
-
-###### Please keep in mind that downloading this theme from GitHub will not offer automatic updates and may not always be up to date.
 ---
 
-# Goodbye, and,
-
-- ## Code
-- ## Debug
-- ## Enjoy!
-
+The Superstitions Project was created in April of 2026 by Aiden Hill

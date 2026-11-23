@@ -2,7 +2,7 @@
   "name": "superstitions",
   "displayName": "Superstitions",
   "description": "Soft, simple, and readable. Made with blue light glasses in mind.",
-  "version": "3",
+  "version": "3.0.0",
   "icon": "images/logo.png",
   "publisher": "aidenhill.ar",
   "engines": {
@@ -19,7 +19,7 @@
         "path": "./themes/Superstitions-color-theme.json"
       },
       {
-         "label": "Superstitions-light",
+         "label": "Superstitions-Light",
          "uiTheme": "vs-dark",
          "path": "./themes/Superstitions-color-theme-light.json"
       },
