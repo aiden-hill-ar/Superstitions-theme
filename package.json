@@ -16,17 +16,12 @@
       {
         "label": "Superstitions",
         "uiTheme": "vs-dark",
-        "path": "./themes/Superstitions-color-theme.json"
+        "path": "./themes/Superstitions.json"
       },
       {
-         "label": "Superstitions-Light",
+         "label": "Superstitions-Charged",
          "uiTheme": "vs-dark",
-         "path": "./themes/Superstitions-color-theme-light.json"
-      },
-      {
-        "label": "Superstitions-New",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Superstitions-new.json"
+         "path": "./themes/Superstitions-Charged.json"
       }
     ]
   },
