@@ -15,7 +15,7 @@ Superstitions has been remade from the ground up so you can experience it like i
 
 A couple key points:
 
-- Superstitions now has over 110 extra styles so your VSCode will look unified instead of unfinished! (Examples of newly styled elements: highlighted text, minimap, error and warnings, input/text fields, badges, notifications, and so much more!)
+- Superstitions now has 145+ extra styles so your VS Code will look unified instead of unfinished! (Examples of newly styled elements: highlighted text, minimap, error and warnings, input/text fields, badges, notifications, and so much more!)
 
 - Superstitions now has extra styling to help signal importance, currently open files, relativity, and more!
 
@@ -29,8 +29,8 @@ Things about Superstitions:
 
 - Bright colors are dimmed and desaturated slightly and there are no near-black colors so your eyes can rest in a range of comfortable contrast.
 
-- Related code is styled similarly. For example, the name of an html tag and the type of variable are the same color (`<div>, const`) because they both signal the start of a new element/value.
+- Related code is styled similarly. For example, an html tag and the declaration of variables are the same color (`<div>, const`) because they both signal the start of a new element/value.
 
 ---
 
-The Superstitions Project was created in April of 2026 by Aiden Hill
+The Superstitions Project was created in April 2026 by Aiden Hill
