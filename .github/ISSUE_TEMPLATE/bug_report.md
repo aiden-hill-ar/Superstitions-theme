@@ -4,16 +4,15 @@ about: Report a color or theme issue
 title: "[Bug] "
 labels: bug
 ---
+## What VS Code version?
+*On Windows and Linux, click "Help" and then "About"*
 
-## What’s wrong? Describe the issue clearly.
+*On Mac, click "Code" in the menu bar, then click "About Visual Studio Code"*
 
-## Language / file type (e.g. JavaScript, HTML, CSS)
-
-## Screenshot. Add a screenshot if possible.
-
-### Code Sample if no Screenshot.
-
-## What did you expect? What should it look like?
-
-## Extra notes
-Anything else that might help.
+- 
+## What language (HTML, CSS, JS)?
+- 
+## Screenshot or code snippet.
+- 
+## What did you expect or what should it look like?
+- 

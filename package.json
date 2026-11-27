@@ -1,10 +1,10 @@
 {
   "name": "superstitions",
   "displayName": "Superstitions",
-  "description": "Soft, simple, and readable. Made with blue light glasses in mind.",
+  "description": "A warm, low vibrancy theme made to turn invisible. Uses semantic styling for consistent UI and syntax across languages.",
   "version": "3.0.0",
-  "icon": "images/logo.png",
-  "publisher": "aidenhill.ar",
+  "icon": "",
+  "publisher": "aidenhillar",
   "engines": {
     "vscode": "^1.107.1"
   },
@@ -20,7 +20,7 @@
       },
       {
          "label": "Superstitions-Charged",
-         "uiTheme": "vs-dark",
+         "uiTheme": "vs",
          "path": "./themes/Superstitions-Charged.json"
       }
     ]

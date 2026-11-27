@@ -1,8 +1,8 @@
 # Superstitions
 
-Image Once Finished
-
 [Superstitions Github](https://github.com/aiden-hill-ar/Superstitions-theme)
+
+[Superstitions Website](https://aiden-hill-ar.github.io/Superstitions-Website/)
 
 ## Supported Languages
 
@@ -15,9 +15,13 @@ Superstitions has been remade from the ground up so you can experience it like i
 
 A couple key points:
 
-- Superstitions now has over 110 extra styles so your VSCode will look unified instead of unfinished! (Examples of newly styled elements: highlighted text, minimap, error and warnings, input/text fields, badges, notifications, and so much more!)
+- The syntax palette has been reworked with warmer tones with a lower contrast meaning that the old neon colors are replaced with calm, resonante ones.
 
-- Superstitions now has extra styling to help signal importance, currently open files, relativity, and more!
+- Superstitions now has 145+ extra styles so your VS Code will look unified instead of unfinished! (Examples of newly styled elements:  minimap, list trees like Explorer, widgets, inputs, and much more!)
+
+- There's a new light version called Superstitions Charged for those public spaces or gatherings when there's more energy around, so Superstitions can match you!
+
+- More styling to help signal importance, currently open files, hierarchy, and more!
 
 ## What is Superstitions Like?
 
@@ -25,12 +29,12 @@ Superstitions is a dark theme with a focus on reducing eye fatigue.
 
 Things about Superstitions:
 
-- Its UI flows. For example, your text editor is grouped together meaning that UI elements are mostly the same color so it doesn't break the flow of unity. Most of everything else outside of the text editor like the action bar, title bar, and tab bar background are the same color. This also reduces distractions and fatigue very subtly because there's not a lot of colors competing everywhere.
+- Its UI flows. Instead of having all elements separated, they are grouped based on hierarchy so VS Code is more consistent. This also means that there aren't as many elements grabbing at your eye's attention, so they can focus on the code more easily.
 
-- Bright colors are dimmed and desaturated slightly and there are no near-black colors so your eyes can rest in a range of comfortable contrast.
+- Bright colors are dimmed and saturated ever so slightly on a dark navy blue background which is more comfortable to look at for long periods of time.
 
-- Related code is styled similarly. For example, the name of an html tag and the type of variable are the same color (`<div>, const`) because they both signal the start of a new element/value.
+- Related code is styled similarly. For example, an html tag and the declaration of variables are the same color (`<div>, const`) because they both signal the start of a new element/value.
 
 ---
 
-The Superstitions Project was created in April of 2026 by Aiden Hill
+The Superstitions Project was created in April 2026 by Aiden Hill
