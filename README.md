@@ -4,11 +4,19 @@
 
 [Superstitions Website](https://aiden-hill-ar.github.io/Superstitions-Website/)
 
+## Installation
+
+Install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=aidenhillar.superstitions) or:
+- Press `Cmd + P` and type `ext install aidenhillar.superstitions` or with vsix file:
+- Press `Cmd + Shift + P`, type `Extensions: Install from VSIX`, and then select the vsix file
+
+
 ## Supported Languages
 
 - HTML
 - CSS
 - JavaScript
+- Markdown
 
 ## What's New in Superstitions Version 3.0.0?
 Superstitions has been remade from the ground up so you can experience it like it was always meant to be.
